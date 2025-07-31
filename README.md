@@ -8,8 +8,8 @@ This project was developed as part of a web development internship assignment an
 
 ##  Live Demo
 
- [Click here to view the live website](https://scoreazy-microcourse.vercel.app)  
-*(Replace with your actual Vercel URL after deployment)*
+ [Click here to view the live website](https://scoreazyassign.vercel.app/)  
+
 
 ---
 
@@ -35,5 +35,5 @@ This project was developed as part of a web development internship assignment an
 ##  Tech Stack
 
 - **Frontend:** HTML5, CSS3
-- **Hosting:** [Vercel](https://vercel.com)
+- **Hosting:** Vercel
 
